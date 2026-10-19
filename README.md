@@ -49,31 +49,17 @@ UX/UI и офлайн
 - продолжение работы с черновиком после восстановления соединения.
 Скриншоты
 Все изображения обезличены.
-Основное меню приложения
 
 <img width="311" height="656" alt="image" src="https://github.com/user-attachments/assets/969d76d0-cbd8-4681-b7d0-4037f44d66b1" />
-
 <img width="296" height="644" alt="image" src="https://github.com/user-attachments/assets/1d04713d-a98e-4bf7-aa64-22f33693d40a" />
-
-Меню пациента	
 <img width="296" height="440" alt="image" src="https://github.com/user-attachments/assets/1a1df48b-b784-44ed-9d27-948ee87f8f45" />
-
-Типы дневников и локальные черновики
 <img width="296" height="328" alt="image" src="https://github.com/user-attachments/assets/86175baf-c4da-4faf-b4ff-454a91b972cf" />	
-
-Динамическая форма дневника	
 <img width="298" height="438" alt="image" src="https://github.com/user-attachments/assets/b9a45639-b76f-42be-9dd9-5d4414cf5dfe" />
 <img width="298" height="438" alt="image" src="https://github.com/user-attachments/assets/57d1e4b6-55cd-476d-abff-a840dedb26fd" />
-
-Результаты лабораторных исследований
 <img width="294" height="451" alt="image" src="https://github.com/user-attachments/assets/24ce3887-62dd-4907-9444-e5bdb8ee2455" />
-История диагностики
 <img width="298" height="361" alt="image" src="https://github.com/user-attachments/assets/1821dfcd-4b34-443c-9506-7dbb5a7811a5" />
-Лечение и назначения
 <img width="290" height="531" alt="image" src="https://github.com/user-attachments/assets/fc80b403-4584-4083-ba2d-97f6eb9dd9c5" />
-Клинические мероприятия
 <img width="256" height="463" alt="image" src="https://github.com/user-attachments/assets/dcaded92-5533-4ad7-94b6-18a9287abe17" />
-Динамическое разделение полей направления и результата
 
 При создании направления приложение разрешает ввод параметров, относящихся к назначению, и отдельно блокирует поля, которые должны заполняться только после выполнения исследования.
 Стек
