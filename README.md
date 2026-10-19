@@ -1,6 +1,6 @@
-# SAMSON Hospital — Full-Stack Mobile Workspace (Case Study)
+# SAMSON Hospital — Full-Stack Mobile Workspace
 
-> **Note on Confidentiality:** This repository represents a comprehensive case study of a proprietary medical system deployed within a secured, closed network. In compliance with NDA and healthcare regulations, the source code and production data are omitted. This document highlights the architecture, engineering challenges, and technical solutions.
+> **Note on Confidentiality:** This repository represents a comprehensive case of a proprietary medical system deployed within a secured, closed network. In compliance with NDA and healthcare regulations, the source code and production data are omitted. This document highlights the architecture, engineering challenges, and technical solutions.
 
 SAMSON Hospital is an internal full-stack mobile solution designed for hospital physicians. It streamlines daily clinical workflows by integrating a modern mobile experience with a legacy Hospital Medical Information System (MIS).
 
