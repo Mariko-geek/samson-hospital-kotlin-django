@@ -1,4 +1,4 @@
-# SAMSON Hospital — Full-Stack Mobile Workspace (Case Study)
+# SAMSON Hospital — Full-Stack Mobile Workspace 
 
 > **NDA & Confidentiality Notice:** This repository provides a technical case study of a proprietary medical system currently undergoing pre-release testing in a closed network at a healthcare facility in Krasnodar, Russia. To comply with strict medical regulations and non-disclosure agreements, production source code and database credentials are fully omitted. 
 
