@@ -53,9 +53,10 @@ UX/UI и офлайн
 <img width="311" height="656" alt="image" src="https://github.com/user-attachments/assets/969d76d0-cbd8-4681-b7d0-4037f44d66b1" />
 <img width="296" height="644" alt="image" src="https://github.com/user-attachments/assets/1d04713d-a98e-4bf7-aa64-22f33693d40a" />
 <img width="296" height="440" alt="image" src="https://github.com/user-attachments/assets/1a1df48b-b784-44ed-9d27-948ee87f8f45" />
-<img width="296" height="328" alt="image" src="https://github.com/user-attachments/assets/86175baf-c4da-4faf-b4ff-454a91b972cf" />	
+<img width="296" height="328" alt="image" src="https://github.com/user-attachments/assets/86175baf-c4da-4faf-b4ff-454a91b972cf" />
+
 <img width="298" height="438" alt="image" src="https://github.com/user-attachments/assets/b9a45639-b76f-42be-9dd9-5d4414cf5dfe" />
-<img width="298" height="438" alt="image" src="https://github.com/user-attachments/assets/57d1e4b6-55cd-476d-abff-a840dedb26fd" />
+
 <img width="294" height="451" alt="image" src="https://github.com/user-attachments/assets/24ce3887-62dd-4907-9444-e5bdb8ee2455" />
 <img width="298" height="361" alt="image" src="https://github.com/user-attachments/assets/1821dfcd-4b34-443c-9506-7dbb5a7811a5" />
 <img width="290" height="531" alt="image" src="https://github.com/user-attachments/assets/fc80b403-4584-4083-ba2d-97f6eb9dd9c5" />
